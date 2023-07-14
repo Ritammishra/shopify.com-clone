@@ -17,6 +17,7 @@
 ![image](./Thumbnails/Thumbnail-10.png)
 ![image](./Thumbnails/Thumbnail-11.png)
 
+[Live Preview](https://shopify-clone-projects.netlify.app/)
 <hr>
 
 ## Features
